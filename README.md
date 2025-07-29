@@ -14,9 +14,9 @@ Throughout my academic journey, I've deepened my skills in programming and data 
 
 ## 🧰 Tools & Languages
 
-- **Python** – scripting, scientific computing, data analysis and visualization  
-- **Fortran** – my first programming language; used to write scientific computing programs  
-- **C++** – experience contributing to code in the *ORCA* quantum chemistry software  
+- **Python**: scripting, scientific computing, data analysis and visualization  
+- **Fortran**: my first programming language; used to write scientific computing programs  
+- **C++**: experience contributing to code in the *ORCA* quantum chemistry software  
 
 
 ## 🤝 Collaboration
