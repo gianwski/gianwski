@@ -1,14 +1,6 @@
 ### Hi, I'm Gianluca
 
-- I'm a theoretical and computational chemist  
-- Passionate about programming and data analysis in a scientific context  
-- Curious about AI and machine learning
-
-
-## Academic & Research Background
-
-My research focuses on the development of computational methods.
-Throughout my academic journey, I've deepened my skills in programming and data analysis.
+I'm a theoretical and computational chemist, passionate about programming, data analysis, and artificial intelligence
 
 
 ## Tools & Languages
@@ -21,11 +13,11 @@ Throughout my academic journey, I've deepened my skills in programming and data 
 ## Collaboration
 
 I'm always happy to exchange ideas and connect with others working in computational science.
-
 Feel free to reach out if you'd like to discuss shared interests in chemistry, scientific programming, or data-driven research.
 
 
 ## Contact
 
 Check the sidebar for links to my contact information and social profiles.
+
 
