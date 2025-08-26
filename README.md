@@ -1,4 +1,4 @@
-### Hi, I'm Gianluca
+# Hi, I'm Gianluca
 
 I'm a theoretical and computational chemist, passionate about programming, data analysis, and artificial intelligence
 
@@ -19,5 +19,6 @@ Feel free to reach out if you'd like to discuss shared interests in chemistry, s
 ## Contact
 
 Check the sidebar for links to my contact information and social profiles.
+
 
 
