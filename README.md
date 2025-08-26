@@ -1,9 +1,9 @@
 # Hi, I'm Gianluca
 
-I'm a theoretical and computational chemist, passionate about programming, data analysis, and artificial intelligence
+I'm a computational chemist, passionate about programming, data analysis, and artificial intelligence.
 
 
-## Tools & Languages
+## Languages
 
 - **Python**: scripting, scientific computing, data analysis and visualization  
 - **Fortran**: my first programming language; used to write scientific computing programs  
@@ -12,13 +12,14 @@ I'm a theoretical and computational chemist, passionate about programming, data 
 
 ## Collaboration
 
-I'm always happy to exchange ideas and connect with others working in computational science.
+I'm always happy to exchange ideas and connect with others working in computational science and not.
 Feel free to reach out if you'd like to discuss shared interests in chemistry, scientific programming, or data-driven research.
 
 
 ## Contact
 
 Check the sidebar for links to my contact information and social profiles.
+
 
 
 
